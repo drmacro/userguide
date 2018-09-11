@@ -18,6 +18,7 @@
         (document types) that support <term>Smart Paste</term></xref> in <ph keyref="product"/>. For
       other document types, the default behavior of the paste operation is to keep only the text
       content without the styling.</p>
+    <p>Really need to say more here.</p>
     <p>The style of the pasted content can be customized by editing an XSLT stylesheet for a
       particular document type (<xref keyref="glossentry_framework"><term>framework</term></xref>).
       The XSLT stylesheet must accept an XHTML flavor of the copied content as input, and transform
